@@ -1,0 +1,24 @@
+Olá, bem vindo ao meu joguinho, mas não espere muito, é apenas uma demo
+
+Notas:
+
+O carisma ainda não tem utilizade, então não precisa aumenta-lo por enquanto.
+
+Para saber de quem é a rodada preste atenção no marcador que fica em cima da cabeça de quem está atacando
+
+Os creditos estão no final do jogo
+
+Tentei balancear o maximo possivel, para que o jogo não fiquei tão facil, mas ainda esta muito facil de ganhar.
+
+O jogo foi testada varias vezes e não encontrei nenhum bug
+
+Todos os personagens tem uma animação de caido, então se ele ainda estiver de pe e porque ele ainda esta vivo
+
+Divirta-se
+
+
+Feito por Pedro Castellari
+
+discord - PreaRato#9016
+
+OBS: caso não consiga abrir o executar o codigo pelo VSCODE ou outro programa, execute o arquivo .py pela pasta normalmente
